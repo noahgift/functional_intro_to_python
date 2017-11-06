@@ -2,3 +2,5 @@ pylint
 pytest
 pytest-cov
 click
+jupyter
+nbval
