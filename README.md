@@ -2,3 +2,7 @@
 
 # Functional Intro To Python
 A functional, data science centric introduction to Python
+
+  * [Introductory Concepts](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_1(Introductory_Concepts).ipynb)
+  
+  * [Functions](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_2(Functions).ipynb)
