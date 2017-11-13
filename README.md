@@ -7,5 +7,4 @@ A brief, functional, data science centric introduction to Python
   
   * [Functions](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_2(Functions).ipynb)
  * [Control Structures](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_3(Control_Structures).ipynb)
-* [Intermediate Topics:  Classes, Modules, Libraries]
-(https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_4(Intermediate_Topics).ipynb)
+* [Intermediate Topics:  Classes, Modules, Libraries](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_4(Intermediate_Topics).ipynb)
