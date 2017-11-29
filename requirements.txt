@@ -6,3 +6,5 @@ jupyter
 nbval
 pandas
 pyyaml
+numpy
+bokeh
