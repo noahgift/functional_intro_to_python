@@ -5,3 +5,4 @@ click
 jupyter
 nbval
 pandas
+pyyaml
