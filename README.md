@@ -11,12 +11,12 @@ An intentionally brief, functional, data science centric introduction to Python.
 
 * Data Visualization
 
-- Time Series:
-https://www.splunk.com/
+  - Time Series:
+ https://www.splunk.com/
 
-- Graphite:  https://graphiteapp.org/#overview
+ - Graphite:  https://graphiteapp.org/#overview
 
-- Prometheus:  https://prometheus.io/
+ - Prometheus:  https://prometheus.io/
 
-Raw javascript:  https://d3js.org/
+ - Raw javascript:  https://d3js.org/
 
