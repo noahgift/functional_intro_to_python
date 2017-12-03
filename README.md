@@ -30,6 +30,7 @@ The sections after that, involve varying levels of difficulty and cover topics a
 * [IBM Developerworks:  Writing Multi-Threaded Programs in Python (2008)](https://www.ibm.com/developerworks/aix/library/au-threadingpython/)
 * [IBM Developerworks:  Using Multi-processing Module in Python (2009)](https://www.ibm.com/developerworks/aix/library/au-multiprocessing/index.html)
 * [Writing Async Network IO Calls to AWS API](https://github.com/noahgift/awsasync)
+* [Worker Farm with RabbitMQ and Tornado](https://github.com/noahgift/tornado_rabbitmq_linear_optimization)
 
 ### Cloud Computing
 
