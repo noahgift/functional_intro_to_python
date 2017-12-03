@@ -58,4 +58,9 @@ An intentionally brief, functional, data science centric introduction to Python.
 
 * [Article on how to deploy commandline tools and libraries to PyPi](https://www.ibm.com/developerworks/opensource/library/ba-github-analytics-2/index.html) 
 
+### Web Scraping in Python
+
+* [Programatically Scraping Wikipedia API in Python:  Pageviews and Articles](https://github.com/noahgift/socialpowernba/blob/master/socialpower/spwikipedia.py)
+
+* [Using Python Twitter API](https://github.com/noahgift/socialpowernba/blob/master/socialpower/spwikipedia.py)
 
