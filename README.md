@@ -80,11 +80,12 @@ The sections after that, involve varying levels of difficulty and cover topics a
 
 * ["Sensible" Logging Library in Python:  Deployed to PyPI](https://github.com/nogibjj/sensible)
 
-### Mathmetical Programming
+### Mathmetical and Algorithmic Programming
 
 #### Optimization
 
 * [IBM Developerworks Series on Pyomo (Linear Optimization in Python)](https://www.ibm.com/developerworks/cloud/library/cl-optimizepythoncloud1/)
 
-* [Traveling Salesman (NP Hard Simulation Solution with Random, Greedy Start](https://github.com/noahgift/or/blob/master/tsp_greedy_random_start.py)
+* [Traveling Salesman (NP Hard Simulation Solution with Random, Greedy Start)](https://github.com/noahgift/or/blob/master/tsp_greedy_random_start.py)
 
+* [Greedy Coin Example in Python](https://github.com/noahgift/greedy_coin)
