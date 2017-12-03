@@ -64,3 +64,11 @@ An intentionally brief, functional, data science centric introduction to Python.
 
 * [Using Python Twitter API](https://github.com/noahgift/socialpowernba/blob/master/socialpower/spwikipedia.py)
 
+### Mathmetical Programming
+
+#### Optimization
+
+* [IBM Developerworks Series on Pyomo (Linear Optimization in Python)](https://www.ibm.com/developerworks/cloud/library/cl-optimizepythoncloud1/)
+
+* [Traveling Salesman (NP Hard Simulation Solution with Random, Greedy Start](https://github.com/noahgift/or/blob/master/tsp_greedy_random_start.py)
+
