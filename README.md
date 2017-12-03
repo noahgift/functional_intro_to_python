@@ -51,6 +51,7 @@ The sections after that, involve varying levels of difficulty and cover topics a
 ### Creating Commandline Tools
 
 * [Python Commandline tool Rosetta:  Comparing R, Bash, Go, Node, Python and Ruby](https://github.com/noahgift/cli-rosetta)
+* [Pyli:  Deduplication Commandline Tool That Walks A Filesystem](https://github.com/nogibjj/pyli)
 
 ### Statically Generated Websites
 
@@ -65,6 +66,10 @@ The sections after that, involve varying levels of difficulty and cover topics a
 * [Programatically Scraping Wikipedia API in Python:  Pageviews and Articles](https://github.com/noahgift/socialpowernba/blob/master/socialpower/spwikipedia.py)
 
 * [Using Python Twitter API](https://github.com/noahgift/socialpowernba/blob/master/socialpower/spwikipedia.py)
+
+### Logging in Python
+
+* ["Sensible" Logging Library in Python:  Deployed to PyPI](https://github.com/nogibjj/sensible)
 
 ### Mathmetical Programming
 
