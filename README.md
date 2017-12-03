@@ -20,10 +20,14 @@ The sections after that, involve varying levels of difficulty and cover topics a
 
 ## Advanced Topics (In Progress....)
 
-### Software Carpentary
+### Software Carpentary:  Testing, Linting, Building
 
 * [How Create a Python Project Github Repository](https://github.com/noahgift/myrepo)
 * [How to Write "Clean" Code in Python (2010) Using Pylint](https://www.ibm.com/developerworks/aix/library/au-cleancode/)
+* [How to Test Jupyter Notebooks with Pytest](https://github.com/noahgift/functional_intro_to_python/blob/master/Makefile#L9)
+* [How to build and test a Python Project with CircleCI](https://github.com/noahgift/functional_intro_to_python/blob/master/.circleci/config.yml)
+* [How to get test Coverage with Pytest](https://github.com/noahgift/devml/blob/master/Makefile#L8)
+* [How to use Pylint to Fail on Error and Warnings only](https://github.com/noahgift/devml/blob/master/Makefile#L22)
 
 ### Concurrency in Python
 
@@ -80,7 +84,7 @@ The sections after that, involve varying levels of difficulty and cover topics a
 
 * ["Sensible" Logging Library in Python:  Deployed to PyPI](https://github.com/nogibjj/sensible)
 
-### Mathmetical and Algorithmic Programming
+### Mathmatical and Algorithmic Programming
 
 #### Optimization
 
