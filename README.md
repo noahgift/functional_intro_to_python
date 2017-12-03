@@ -3,7 +3,7 @@
 # Functional, Data Science Intro To Python
 The first section is an intentionally brief, functional, data science centric introduction to Python.  The assumption is a someone with zero experience in programming can follow this tutorial and learn Python with the smallest amount of information possible.
 
-The sections after that, involve varying levels of difficulty and cover topics as diverse as Machine Learning to Linear Optimization.
+The sections after that, involve varying levels of difficulty and cover topics as diverse as Machine Learning and Linear Optimization to build systems and commandline tools.
 
 ## Python Fundamentals
   * [Lesson1:  Introductory Concepts](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_1(Introductory_Concepts).ipynb)
@@ -26,10 +26,10 @@ The sections after that, involve varying levels of difficulty and cover topics a
 
 ### Cloud Computing
 
-* [Python and AWS Jupyter Notebook](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/aws/aws.ipynb) 
-* [Launching Spot Instances From Python](https://github.com/noahgift/spot_price_machine_learning/blob/master/spot_launcher.py)
-* [Calling AWS Spot Instance API to Create CLI Machine Learning Tool](https://github.com/noahgift/spot_price_machine_learning/blob/master/spot-price-ml.py)
-* [Spot Price Jupyter Notebook Exploration](https://github.com/noahgift/spot_price_machine_learning/blob/master/notebooks/spot_pricing_ml.ipynb)
+* [AWS + Boto:  Python and AWS Jupyter Notebook](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/aws/aws.ipynb) 
+* [AWS + Boto:  Launching Spot Instances From Python](https://github.com/noahgift/spot_price_machine_learning/blob/master/spot_launcher.py)
+* [AWS + Boto:  Calling Spot Instance API to Create CLI Machine Learning Tool](https://github.com/noahgift/spot_price_machine_learning/blob/master/spot-price-ml.py)
+* [AWS + Boto:  Spot Price Jupyter Notebook Exploration](https://github.com/noahgift/spot_price_machine_learning/blob/master/notebooks/spot_pricing_ml.ipynb)
 
 ### Machine Learning and Data Science Full Jupyter Notebooks
 
