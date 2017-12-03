@@ -23,6 +23,13 @@ The sections after that, involve varying levels of difficulty and cover topics a
 ### Software Carpentary
 
 * [How Create a Python Project Github Repository](https://github.com/noahgift/myrepo)
+* [How to Write "Clean" Code in Python (2010) Using Pylint](https://www.ibm.com/developerworks/aix/library/au-cleancode/)
+
+### Concurrency in Python
+
+* [IBM Developerworks:  Writing Multi-Threaded Programs in Python (2008)](https://www.ibm.com/developerworks/aix/library/au-threadingpython/)
+* [IBM Developerworks:  Using Multi-processing Module in Python (2009)](https://www.ibm.com/developerworks/aix/library/au-multiprocessing/index.html)
+* [Writing Async Network IO Calls to AWS API](https://github.com/noahgift/awsasync)
 
 ### Cloud Computing
 
@@ -52,6 +59,7 @@ The sections after that, involve varying levels of difficulty and cover topics a
 
 * [Python Commandline tool Rosetta:  Comparing R, Bash, Go, Node, Python and Ruby](https://github.com/noahgift/cli-rosetta)
 * [Pyli:  Deduplication Commandline Tool That Walks A Filesystem](https://github.com/nogibjj/pyli)
+* [Developersworks Article (2008):  Creating Commandline Tools Python](https://www.ibm.com/developerworks/aix/library/au-pythocli/)
 
 ### Statically Generated Websites
 
