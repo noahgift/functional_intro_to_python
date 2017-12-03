@@ -93,3 +93,7 @@ The sections after that, involve varying levels of difficulty and cover topics a
 * [Traveling Salesman (NP Hard Simulation Solution with Random, Greedy Start)](https://github.com/noahgift/or/blob/master/tsp_greedy_random_start.py)
 
 * [Greedy Coin Example in Python](https://github.com/noahgift/greedy_coin)
+
+#### Linear Regression
+
+* [Linear Regression in Jupyter Notebook](https://github.com/noahgift/socialpowernba/blob/master/notebooks/exploring_endorsement_revenue_nba.ipynb)
