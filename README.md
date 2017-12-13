@@ -80,6 +80,8 @@ The sections after that, involve varying levels of difficulty and cover topics a
 
 * [Using Python Twitter API](https://github.com/noahgift/socialpowernba/blob/master/socialpower/spwikipedia.py)
 
+* [Serverless Web Scraping with Lambda and Step Functions](https://github.com/noahgift/web_scraping_python)
+
 ### Logging in Python
 
 * ["Sensible" Logging Library in Python:  Deployed to PyPI](https://github.com/nogibjj/sensible)
