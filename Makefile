@@ -1,4 +1,6 @@
 setup:
+	#You may want to create an alias to automatically source this:
+	# alias functop="cd ~/src/functional_intro_to_python && source ~/.func/bin/activate"
 	python3 -m venv ~/.func
 
 install:

@@ -47,7 +47,7 @@ The sections after that, involve varying levels of difficulty and cover topics a
 
   * [DEVML:  Datascience around Github](https://github.com/noahgift/devml)
   * [Social Power NBA:  Datascience around the NBA and Social Media](https://github.com/noahgift/socialpowernba)
-  * [Spot Price ML(kNN Unsupervized Machine Learning Recommender):  Datascience around AWS Spot Prices](https://github.com/noahgift/spot_price_machine_learning)
+  * [Spot Price ML(KMeans Unsupervized Machine Learning Recommender):  Datascience around AWS Spot Prices](https://github.com/noahgift/spot_price_machine_learning)
 
 ### Data Visualization
 
@@ -79,6 +79,8 @@ The sections after that, involve varying levels of difficulty and cover topics a
 * [Programatically Scraping Wikipedia API in Python:  Pageviews and Articles](https://github.com/noahgift/socialpowernba/blob/master/socialpower/spwikipedia.py)
 
 * [Using Python Twitter API](https://github.com/noahgift/socialpowernba/blob/master/socialpower/spwikipedia.py)
+
+* [Serverless Web Scraping with Lambda and Step Functions](https://github.com/noahgift/web_scraping_python)
 
 ### Logging in Python
 
