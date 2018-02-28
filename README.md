@@ -36,12 +36,17 @@ The sections after that, involve varying levels of difficulty and cover topics a
 * [Writing Async Network IO Calls to AWS API](https://github.com/noahgift/awsasync)
 * [Worker Farm with RabbitMQ and Tornado](https://github.com/noahgift/tornado_rabbitmq_linear_optimization)
 
-### Cloud Computing
+### Cloud Computing-AWS
 
 * [AWS + Boto:  Python and AWS Jupyter Notebook](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/aws/aws.ipynb) 
 * [AWS + Boto:  Launching Spot Instances From Python](https://github.com/noahgift/spot_price_machine_learning/blob/master/spot_launcher.py)
 * [AWS + Boto:  Calling Spot Instance API to Create CLI Machine Learning Tool](https://github.com/noahgift/spot_price_machine_learning/blob/master/spot-price-ml.py)
 * [AWS + Boto:  Spot Price Jupyter Notebook Exploration](https://github.com/noahgift/spot_price_machine_learning/blob/master/notebooks/spot_pricing_ml.ipynb)
+
+### Cloud Computing-GCP
+
+* [Google Sheets to Pandas DataFrame](https://github.com/noahgift/pragmaticai-gcp/blob/master/notebooks/dataflow_sheets_to_pandas.ipynb)
+* [BigQuery to Pandas to Seaborn](https://github.com/noahgift/pragmaticai-gcp/blob/master/notebooks/pragai-big-instance-BigQuery.ipynb)
 
 ### Machine Learning and Data Science Full Jupyter Notebooks
 
