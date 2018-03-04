@@ -40,6 +40,11 @@ The sections after that, involve varying levels of difficulty and cover topics a
 
 * [AWS Sentiment Analysis Notebook](https://github.com/noahgift/recommendations/blob/master/notebooks/NLP_AWS.ipynb
 )
+
+### Cloud Computing-Azure-Sentiment Analysis
+
+* [NLP on Azure](https://github.com/noahgift/recommendations/blob/master/notebooks/Azure_Sentiment_Analysis.ipynb)
+
 ### Cloud Computing-AWS
 
 * [AWS + Boto:  Python and AWS Jupyter Notebook](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/aws/aws.ipynb) 
