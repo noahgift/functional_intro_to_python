@@ -36,6 +36,10 @@ The sections after that, involve varying levels of difficulty and cover topics a
 * [Writing Async Network IO Calls to AWS API](https://github.com/noahgift/awsasync)
 * [Worker Farm with RabbitMQ and Tornado](https://github.com/noahgift/tornado_rabbitmq_linear_optimization)
 
+### Cloud Computing-AWS-Sentiment Analysis
+
+* [AWS Sentiment Analysis Notebook](https://github.com/noahgift/recommendations/blob/master/notebooks/NLP_AWS.ipynb
+)
 ### Cloud Computing-AWS
 
 * [AWS + Boto:  Python and AWS Jupyter Notebook](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/aws/aws.ipynb) 
