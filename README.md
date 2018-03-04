@@ -3,7 +3,7 @@
 # Functional, Data Science Intro To Python
 The first section is an intentionally brief, functional, data science centric introduction to Python.  The assumption is a someone with zero experience in programming can follow this tutorial and learn Python with the smallest amount of information possible.
 
-The sections after that, involve varying levels of difficulty and cover topics as diverse as Machine Learning and Linear Optimization to build systems and commandline tools.
+The sections after that, involve varying levels of difficulty and cover topics as diverse as Machine Learning, Linear Optimization, build systems, commandline tools, and recommendation engines.
 
 ## Python Fundamentals
   * [Lesson1:  Introductory Concepts](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_1(Introductory_Concepts).ipynb)
