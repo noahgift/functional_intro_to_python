@@ -56,6 +56,7 @@ The sections after that, involve varying levels of difficulty and cover topics a
 
 * [Google Sheets to Pandas DataFrame](https://github.com/noahgift/pragmaticai-gcp/blob/master/notebooks/dataflow_sheets_to_pandas.ipynb)
 * [BigQuery to Pandas to Seaborn](https://github.com/noahgift/pragmaticai-gcp/blob/master/notebooks/pragai-big-instance-BigQuery.ipynb)
+* [NLP on Google Cloud](https://github.com/noahgift/recommendations/blob/master/notebooks/NLP_GCP.ipynb)
 
 ### Machine Learning and Data Science Full Jupyter Notebooks
 
