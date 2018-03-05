@@ -41,6 +41,10 @@ The sections after that, involve varying levels of difficulty and cover topics a
 * [AWS Sentiment Analysis Notebook](https://github.com/noahgift/recommendations/blob/master/notebooks/NLP_AWS.ipynb
 )
 
+### Recommendation Engines
+
+* [Hand coded tanimoto and Pandas similarity engine](https://github.com/noahgift/recommendations/tree/master/tanimoto_example)
+
 ### Cloud Computing-Azure-Sentiment Analysis
 
 * [NLP on Azure](https://github.com/noahgift/recommendations/blob/master/notebooks/Azure_Sentiment_Analysis.ipynb)
