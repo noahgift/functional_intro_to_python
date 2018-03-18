@@ -85,6 +85,10 @@ The sections after that, involve varying levels of difficulty and cover topics a
 * [Pyli:  Deduplication Commandline Tool That Walks A Filesystem](https://github.com/nogibjj/pyli)
 * [Developersworks Article (2008):  Creating Commandline Tools Python](https://www.ibm.com/developerworks/aix/library/au-pythocli/)
 
+### Creating a complete Data Engineering API
+
+* [Real world Data Engineering API](https://github.com/noahgift/pai-aws)
+
 ### Statically Generated Websites
 
 * [Interfacing with Hugo and Algolia from Python](https://github.com/noahgift/hugotools)
