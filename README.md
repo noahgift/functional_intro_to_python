@@ -12,6 +12,17 @@ The sections after that, involve varying levels of difficulty and cover topics a
   * [Lesson4:  Intermediate Topics:  Classes, Modules, Libraries](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_4(Intermediate_Topics).ipynb)
   * [Lesson5:  IO in Python](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/IO%20Python.ipynb)
 
+## Safari Online Training:  Essential Machine Learning and Exploratory Data Analysis with Python and Jupyter Notebook
+
+* [Day1-Part1-Google Colab Notebook](https://colab.research.google.com/drive/1pYMAqirEGSYYJjKjjVU5EwVNoPMmIAB0#scrollTo=Pci2aotqPIME)
+
+Covers introductory concepts including procedural statements, strings, numbers, functions, decorators and lambdas
+
+* [Day1-Part2-Google Colab Notebook](https://colab.research.google.com/drive/1IpTZhKuL6_DBnSpU-_HP9MVWMNZ0B69_#scrollTo=HWKUOfEBUMLS)
+
+Covers intermediate topics including classes, libraries, modules and control statements
+
+
 ## Screencasts (Can Be Watched from 1-4x speed)
 
   * [Screencast:  How to setup a Python Project in Github, Test it with Pytest, use Pylint and Build it With CircleCI](https://www.dropbox.com/s/yohpxvic00g4w44/project_setup.mov?dl=0)
