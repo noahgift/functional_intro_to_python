@@ -22,6 +22,8 @@ Covers introductory concepts including procedural statements, strings, numbers, 
 
 Covers intermediate topics including classes, libraries, modules and control statements
 
+* Local, non-hosted versions of these notebooks are here:  https://github.com/noahgift/functional_intro_to_python/tree/master/colab-notebooks
+
 
 ## Screencasts (Can Be Watched from 1-4x speed)
 
