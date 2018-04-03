@@ -22,6 +22,14 @@ Covers introductory concepts including procedural statements, strings, numbers, 
 
 Covers intermediate topics including classes, libraries, modules and control statements
 
+* [Day2-Part1-Google Colab Notebook](https://colab.research.google.com/drive/1TXkLVC2uL1sewVgu10bjZu7Dvhafw_4Y)
+
+IO in Pandas and Python
+
+* [Day2-Part2-Google Colab Notebook](https://drive.google.com/file/d/1-3jqdbh3DGQDrXkixjWYsgwROyZii4zf/view?usp=sharing)
+
+Applied Python and Cloud Basics
+
 * Local, non-hosted versions of these notebooks are here:  https://github.com/noahgift/functional_intro_to_python/tree/master/colab-notebooks
 
 
