@@ -32,6 +32,11 @@ Applied Python and Cloud Basics
 
 * Local, non-hosted versions of these notebooks are here:  https://github.com/noahgift/functional_intro_to_python/tree/master/colab-notebooks
 
+## Pragmatic AI:  Introduction to Cloud-Based Machine Learning
+
+Pragmatic AI Book:  https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-based-Learning/dp/0134863860
+Pragmatic AI Rough Cuts:  https://www.safaribooksonline.com/library/view/pragmatic-ai-an/9780134863924/
+Pragmatic AI Source Code:  https://github.com/noahgift/pragmaticai
 
 ## Screencasts (Can Be Watched from 1-4x speed)
 
