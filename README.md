@@ -40,6 +40,8 @@ Applied Python and Cloud Basics
 
 * [Pragmatic AI Source Code](https://github.com/noahgift/pragmaticai)
 
+* [Three Day Workshop in San Francisco, CA](https://www.eventbrite.com/e/pragmatic-ai-three-day-cloud-based-python-machine-learning-workshop-tickets-46043109179)
+
 ## Screencasts (Can Be Watched from 1-4x speed)
 
   * [Screencast:  How to setup a Python Project in Github, Test it with Pytest, use Pylint and Build it With CircleCI](https://www.dropbox.com/s/yohpxvic00g4w44/project_setup.mov?dl=0)
