@@ -14,7 +14,7 @@ The sections after that, involve varying levels of difficulty and cover topics a
 
 ## Safari Online Training:  Essential Machine Learning and Exploratory Data Analysis with Python and Jupyter Notebook
 
-* [Day1-Part1-Google Colab Notebook](https://colab.research.google.com/drive/1pYMAqirEGSYYJjKjjVU5EwVNoPMmIAB0#scrollTo=Pci2aotqPIME)
+* [Day1-Part1-Google Colab Notebook](https://drive.google.com/file/d/1jPhYOyvweOJVW3Engci6GcnVEGd_UhGI/view?usp=sharing)
 
 Covers introductory concepts including procedural statements, strings, numbers, functions, decorators and lambdas
 
