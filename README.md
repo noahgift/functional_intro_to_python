@@ -18,7 +18,7 @@ The sections after that, involve varying levels of difficulty and cover topics a
 
 Covers introductory concepts including procedural statements, strings, numbers, functions, decorators and lambdas
 
-* [Day1-Part2-Google Colab Notebook](https://colab.research.google.com/drive/1IpTZhKuL6_DBnSpU-_HP9MVWMNZ0B69_#scrollTo=HWKUOfEBUMLS)
+* [Day1-Part2-Google Colab Notebook](https://colab.research.google.com/drive/1dmTMM-zmGToCmcaedyNj93X-dLZeg2KG)
 
 Covers intermediate topics including classes, libraries, modules and control statements
 
