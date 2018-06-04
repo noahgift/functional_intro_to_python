@@ -148,7 +148,7 @@ Applied Python and Cloud Basics
 
 * ["Sensible" Logging Library in Python:  Deployed to PyPI](https://github.com/nogibjj/sensible)
 
-### Mathmatical and Algorithmic Programming
+### Mathematical and Algorithmic Programming
 
 #### Optimization
 
