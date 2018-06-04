@@ -5,6 +5,15 @@ The first section is an intentionally brief, functional, data science centric in
 
 The sections after that, involve varying levels of difficulty and cover topics as diverse as Machine Learning, Linear Optimization, build systems, commandline tools, recommendation engines, Sentiment Analysis and Cloud Computing.
 
+
+## Pragmatic AI Labs
+![alt text](https://paiml.com/images/logo_main.png)
+
+This notebook was produced by [Pragmatic AI Labs](https://paiml.com/).  You can continue learning about these topics by:
+
+*   Buying a copy of [Pragmatic AI: An Introduction to Cloud-Based Machine Learning](http://www.informit.com/store/pragmatic-ai-an-introduction-to-cloud-based-machine-9780134863917)
+*   Viewing more content at [noahgift.com](https://noahgift.com/)
+
 ## Python Fundamentals
   * [Lesson1:  Introductory Concepts](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_1(Introductory_Concepts).ipynb)
   * [Lesson2:  Functions](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_2(Functions).ipynb)
