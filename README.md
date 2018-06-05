@@ -31,9 +31,9 @@ Covers introductory concepts including procedural statements, strings, numbers, 
 
 Covers intermediate topics including classes, libraries, modules and control statements
 
-* [Day2-Part1-Google Colab Notebook](https://colab.research.google.com/drive/1TXkLVC2uL1sewVgu10bjZu7Dvhafw_4Y)
+* [Day2-Part1-Google Colab Notebook](https://colab.research.google.com/drive/1sORrIFB8t9NbW9Nhko-EgFI1HWOKwn28)
 
-IO in Pandas and Python
+IO in Pandas and Python, Concurrency and Machine Learning Project walkthrough
 
 * [Day2-Part2-Google Colab Notebook](https://drive.google.com/file/d/1-3jqdbh3DGQDrXkixjWYsgwROyZii4zf/view?usp=sharing)
 
