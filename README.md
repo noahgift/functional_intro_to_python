@@ -35,7 +35,7 @@ Covers intermediate topics including classes, libraries, modules and control sta
 
 IO in Pandas and Python, Concurrency and Machine Learning Project walkthrough
 
-* [Day2-Part2-Google Colab Notebook](https://drive.google.com/file/d/1-3jqdbh3DGQDrXkixjWYsgwROyZii4zf/view?usp=sharing)
+* [Day2-Part2-Google Colab Notebook](https://colab.research.google.com/drive/1hl0aHbJqoJIyC1P3OwK9UljP7bupTKEv)
 
 Applied Python and Cloud Basics
 
