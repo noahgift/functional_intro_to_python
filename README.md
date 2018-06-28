@@ -13,6 +13,7 @@ This notebook was produced by [Pragmatic AI Labs](https://paiml.com/).  You can 
 
 *   Buying a copy of [Pragmatic AI: An Introduction to Cloud-Based Machine Learning](http://www.informit.com/store/pragmatic-ai-an-introduction-to-cloud-based-machine-9780134863917)
 *   Viewing more content at [noahgift.com](https://noahgift.com/)
+*   Hear more about the some of the topics covered in [TWIML podcast](https://twimlai.com/twiml-talk-158-growth-hacking-sports-w-machine-learning-with-noah-gift/)
 
 ## Python Fundamentals
   * [Lesson1:  Introductory Concepts](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_1(Introductory_Concepts).ipynb)
