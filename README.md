@@ -7,7 +7,7 @@ The sections after that, involve varying levels of difficulty and cover topics a
 
 
 ## Pragmatic AI Labs
-![alt text](https://paiml.com/images/logo_main.png)
+![alt text](https://www.dropbox.com/s/9mgqijfn1ktg2pw/logo%20with%20slogan%20%28for%20white%20background%29.png?dl=0)
 
 This notebook was produced by [Pragmatic AI Labs](https://paiml.com/).  You can continue learning about these topics by:
 
