@@ -11,8 +11,9 @@ The sections after that, involve varying levels of difficulty and cover topics a
 
 This notebook was produced by [Pragmatic AI Labs](https://paiml.com/).  You can continue learning about these topics by:
 
-*   Buying a copy of [Pragmatic AI: An Introduction to Cloud-Based Machine Learning](http://www.informit.com/store/pragmatic-ai-an-introduction-to-cloud-based-machine-9780134863917)
+*   Buying a copy of [Pragmatic AI: An Introduction to Cloud-Based Machine Learning](https://amzn.to/2LFLVEg)
 *   Viewing more content at [noahgift.com](https://noahgift.com/)
+*   Viewing more content at [Pragmatic AI Labs](https://paiml.com/)
 *   Hear more about the some of the topics covered in [TWIML podcast](https://twimlai.com/twiml-talk-158-growth-hacking-sports-w-machine-learning-with-noah-gift/)
 
 ## Python Fundamentals
