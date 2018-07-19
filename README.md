@@ -28,7 +28,8 @@ This notebook was produced by [Pragmatic AI Labs](https://paiml.com/).  You can 
 
 * [Day1-Part1-Google Colab Notebook](https://drive.google.com/file/d/1jPhYOyvweOJVW3Engci6GcnVEGd_UhGI/view?usp=sharing)
 
-Covers introductory concepts including procedural statements, strings, numbers, functions, decorators and lambdas
+  - Introductory Concepts in Python, IPython and Jupyter
+  - Functions
 
 * [Day1-Part2-Google Colab Notebook](https://colab.research.google.com/drive/1dmTMM-zmGToCmcaedyNj93X-dLZeg2KG)
 
