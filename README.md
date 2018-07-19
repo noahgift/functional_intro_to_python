@@ -33,7 +33,11 @@ This notebook was produced by [Pragmatic AI Labs](https://paiml.com/).  You can 
 
 * [Day1-Part2-Google Colab Notebook](https://colab.research.google.com/drive/1dmTMM-zmGToCmcaedyNj93X-dLZeg2KG)
 
-Covers intermediate topics including classes, libraries, modules and control statements
+  - Writing And Using Libraries In Python
+  - Understanding Python Classes
+  - Control Structures
+  - Understanding Sorting
+  - Python Regular Expressions
 
 * [Day2-Part1-Google Colab Notebook](https://colab.research.google.com/drive/1sORrIFB8t9NbW9Nhko-EgFI1HWOKwn28)
 
