@@ -41,11 +41,23 @@ This notebook was produced by [Pragmatic AI Labs](https://paiml.com/).  You can 
 
 * [Day2-Part1-Google Colab Notebook](https://colab.research.google.com/drive/1sORrIFB8t9NbW9Nhko-EgFI1HWOKwn28)
 
-IO in Pandas and Python, Concurrency and Machine Learning Project walkthrough
+ - Working with Files
+ - Serialization Techniques
+ - Use Pandas DataFrames
+ - Concurrency in Python
+ - Walking through Social Power NBA EDA and ML Project
 
 * [Day2-Part2-Google Colab Notebook](https://colab.research.google.com/drive/1hl0aHbJqoJIyC1P3OwK9UljP7bupTKEv)
 
-Applied Python and Cloud Basics
+ - Introducing AWS Web Services:  Creating accounts, Creating Users and Using Amazon S3 
+ - Using Boto 
+ - Starting development with AWS Python Lambda development with Chalice 
+ - Using of AWS DynamoDB 
+ - Using of Step functions with AWS 
+ - Using of AWS Batch for ML Jobs 
+ - Using AWS Sagemaker for Deep Learning Jobs 
+ - Using AWS Comprehend for NLP 
+ - Using AWS Image Recognition API 
 
 * Local, non-hosted versions of these notebooks are here:  https://github.com/noahgift/functional_intro_to_python/tree/master/colab-notebooks
 
