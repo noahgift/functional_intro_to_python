@@ -5,7 +5,6 @@ The first section is an intentionally brief, functional, data science centric in
 
 The sections after that, involve varying levels of difficulty and cover topics as diverse as Machine Learning, Linear Optimization, build systems, commandline tools, recommendation engines, Sentiment Analysis and Cloud Computing.
 
-
 ## Pragmatic AI Labs
 ![Pragmatic AI Labs](https://paiml.com/images/logo_with_slogan_white_background.png)
 
@@ -16,13 +15,6 @@ This notebook was produced by [Pragmatic AI Labs](https://paiml.com/).  You can 
 *   Viewing more content at [noahgift.com](https://noahgift.com/)
 *   Viewing more content at [Pragmatic AI Labs](https://paiml.com/)
 *   Hear more about the some of the topics covered in [TWIML podcast](https://twimlai.com/twiml-talk-158-growth-hacking-sports-w-machine-learning-with-noah-gift/)
-
-## Python Fundamentals
-  * [Lesson1:  Introductory Concepts](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_1(Introductory_Concepts).ipynb)
-  * [Lesson2:  Functions](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_2(Functions).ipynb)
-  * [Lesson3:  Control Structures](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_3(Control_Structures).ipynb)
-  * [Lesson4:  Intermediate Topics:  Classes, Modules, Libraries](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_4(Intermediate_Topics).ipynb)
-  * [Lesson5:  IO in Python](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/IO%20Python.ipynb)
 
 ## Safari Online Training:  Essential Machine Learning and Exploratory Data Analysis with Python and Jupyter Notebook
 
@@ -83,6 +75,14 @@ This notebook was produced by [Pragmatic AI Labs](https://paiml.com/).  You can 
   * [Screencast:  How to setup a Python Project in Github, Test it with Pytest, use Pylint and Build it With CircleCI](https://www.dropbox.com/s/yohpxvic00g4w44/project_setup.mov?dl=0)
   * [Screencast:  How to launch AWS Spot Instances and Create Custom AMIs](https://www.dropbox.com/s/z5nbv2cu1zzub97/launch_spot.mov?dl=0)
   * [Screencast:  How to use AWS S3 including from Pandas and Boto inside Jupyter](https://www.dropbox.com/s/fm495qy205j2lzs/s3_screencast.mov?dl=0)
+
+## Older Version of Python Fundamentals *(Safari Version Is Newer)*
+
+  * [Lesson1:  Introductory Concepts](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_1(Introductory_Concepts).ipynb)
+  * [Lesson2:  Functions](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_2(Functions).ipynb)
+  * [Lesson3:  Control Structures](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_3(Control_Structures).ipynb)
+  * [Lesson4:  Intermediate Topics:  Classes, Modules, Libraries](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_4(Intermediate_Topics).ipynb)
+  * [Lesson5:  IO in Python](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/IO%20Python.ipynb)
 
 ## Advanced Topics (In Progress....)
 
