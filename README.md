@@ -26,12 +26,16 @@ This notebook was produced by [Pragmatic AI Labs](https://paiml.com/).  You can 
 
 ## Safari Online Training:  Essential Machine Learning and Exploratory Data Analysis with Python and Jupyter Notebook
 
-* [Day1-Part1-Google Colab Notebook](https://drive.google.com/file/d/1jPhYOyvweOJVW3Engci6GcnVEGd_UhGI/view?usp=sharing)
+### [Day1-Part1-Google Colab Notebook](https://drive.google.com/file/d/1jPhYOyvweOJVW3Engci6GcnVEGd_UhGI/view?usp=sharing)
+
+#### 1.1: Introductory Concepts in Python, IPython and Jupyter
 
   - Introductory Concepts in Python, IPython and Jupyter
   - Functions
 
-* [Day1-Part2-Google Colab Notebook](https://colab.research.google.com/drive/1dmTMM-zmGToCmcaedyNj93X-dLZeg2KG)
+### [Day1-Part2-Google Colab Notebook](https://colab.research.google.com/drive/1dmTMM-zmGToCmcaedyNj93X-dLZeg2KG)
+
+#### 1.2: Functions
 
   - Writing And Using Libraries In Python
   - Understanding Python Classes
@@ -39,27 +43,30 @@ This notebook was produced by [Pragmatic AI Labs](https://paiml.com/).  You can 
   - Understanding Sorting
   - Python Regular Expressions
 
-* [Day2-Part1-Google Colab Notebook](https://colab.research.google.com/drive/1sORrIFB8t9NbW9Nhko-EgFI1HWOKwn28)
+### [Day2-Part1-Google Colab Notebook](https://colab.research.google.com/drive/1sORrIFB8t9NbW9Nhko-EgFI1HWOKwn28)
 
- - Working with Files
- - Serialization Techniques
- - Use Pandas DataFrames
- - Concurrency in Python
- - Walking through Social Power NBA EDA and ML Project
+#### 2.1: IO Operations in Python and Pandas
+  - Working with Files
+  - Serialization Techniques
+  - Use Pandas DataFrames
+  - Concurrency in Python
+  - Walking through Social Power NBA EDA and ML Project
 
-* [Day2-Part2-Google Colab Notebook](https://colab.research.google.com/drive/1hl0aHbJqoJIyC1P3OwK9UljP7bupTKEv)
+### [Day2-Part2-Google Colab Notebook](https://colab.research.google.com/drive/1hl0aHbJqoJIyC1P3OwK9UljP7bupTKEv):   
 
- - Introducing AWS Web Services:  Creating accounts, Creating Users and Using Amazon S3 
- - Using Boto 
- - Starting development with AWS Python Lambda development with Chalice 
- - Using of AWS DynamoDB 
- - Using of Step functions with AWS 
- - Using of AWS Batch for ML Jobs 
- - Using AWS Sagemaker for Deep Learning Jobs 
- - Using AWS Comprehend for NLP 
- - Using AWS Image Recognition API 
+#### 2.2: AWS Cloud-Native Python for ML/AI
 
-* Local, non-hosted versions of these notebooks are here:  https://github.com/noahgift/functional_intro_to_python/tree/master/colab-notebooks
+  - Introducing AWS Web Services:  Creating accounts, Creating Users and Using Amazon S3 
+  - Using Boto 
+  - Starting development with AWS Python Lambda development with Chalice 
+  - Using of AWS DynamoDB 
+  - Using of Step functions with AWS 
+  - Using of AWS Batch for ML Jobs 
+  - Using AWS Sagemaker for Deep Learning Jobs 
+  - Using AWS Comprehend for NLP 
+  - Using AWS Image Recognition API 
+
+*Local, non-hosted versions of these notebooks are here:  https://github.com/noahgift/functional_intro_to_python/tree/master/colab-notebooks*
 
 ## Pragmatic AI:  Introduction to Cloud-Based Machine Learning
 
