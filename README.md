@@ -8,10 +8,11 @@ The sections after that, involve varying levels of difficulty and cover topics a
 ## Pragmatic AI Labs
 ![Pragmatic AI Labs](https://paiml.com/images/logo_with_slogan_white_background.png)
 
-This notebook was produced by [Pragmatic AI Labs](https://paiml.com/).  You can continue learning about these topics by:
+These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml.com/).  You can continue learning about these topics by:
 
 *   Buying a copy of [Pragmatic AI: An Introduction to Cloud-Based Machine Learning](https://amzn.to/2LFLVEg)
 *   Reading online with Safari:  [Pragmatic AI: An Introduction to Cloud-Based Machine Learning, First Edition](https://www.safaribooksonline.com/library/view/pragmatic-ai-an/9780134863924/)
+*   Browsing [Pragmatic AI Source Code](https://github.com/noahgift/pragmaticai)
 *   Viewing more content at [noahgift.com](https://noahgift.com/)
 *   Viewing more content at [Pragmatic AI Labs](https://paiml.com/)
 *   Hear more about the some of the topics covered in [TWIML podcast](https://twimlai.com/twiml-talk-158-growth-hacking-sports-w-machine-learning-with-noah-gift/)
@@ -60,15 +61,6 @@ This notebook was produced by [Pragmatic AI Labs](https://paiml.com/).  You can 
 
 *Local, non-hosted versions of these notebooks are here:  https://github.com/noahgift/functional_intro_to_python/tree/master/colab-notebooks*
 
-## Pragmatic AI:  Introduction to Cloud-Based Machine Learning
-
-* [Pragmatic AI Book](https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-based-Learning/dp/0134863860)
-
-* [Pragmatic AI Rough Cuts](https://www.safaribooksonline.com/library/view/pragmatic-ai-an/9780134863924/)
-
-* [Pragmatic AI Source Code](https://github.com/noahgift/pragmaticai)
-
-* [Three Day Workshop in San Francisco, CA](https://www.eventbrite.com/e/pragmatic-ai-three-day-cloud-based-python-machine-learning-workshop-tickets-46043109179)
 
 ## Screencasts (Can Be Watched from 1-4x speed)
 
@@ -84,7 +76,7 @@ This notebook was produced by [Pragmatic AI Labs](https://paiml.com/).  You can 
   * [Lesson4:  Intermediate Topics:  Classes, Modules, Libraries](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_4(Intermediate_Topics).ipynb)
   * [Lesson5:  IO in Python](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/IO%20Python.ipynb)
 
-## Advanced Topics (In Progress....)
+## Additional Topics
 
 ### Software Carpentary:  Testing, Linting, Building
 
