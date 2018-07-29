@@ -17,6 +17,7 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 *   Viewing more content at [noahgift.com](https://noahgift.com/)
 *   Viewing more content at [Pragmatic AI Labs](https://paiml.com/)
 *   Viewing more content on the [Pragmatic AI Labs YouTube Channel](https://www.youtube.com/channel/UCNDfiL0D1LUeKWAkRE1xO5Q)
+*   Reading content on [Pragmatic AI Medium](https://medium.com/pragmatic-ai-labs)
 *   Hear more about the some of the topics covered in [TWIML podcast](https://twimlai.com/twiml-talk-158-growth-hacking-sports-w-machine-learning-with-noah-gift/)
 
 ## Safari Online Training:  Essential Machine Learning and Exploratory Data Analysis with Python and Jupyter Notebook
