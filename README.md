@@ -23,6 +23,11 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 
 ## Safari Online Training:  Essential Machine Learning and Exploratory Data Analysis with Python and Jupyter Notebook
 
+### Recommended Preparation Material:
+
+*   Watching 8+ Hour Video Series on Safari: [Essential Machine Learning and AI with Python and Jupyter Notebook](https://www.safaribooksonline.com/videos/essential-machine-learning/9780135261118)
+*   Reading online with Safari:  [Pragmatic AI: An Introduction to Cloud-Based Machine Learning, First Edition](https://www.safaribooksonline.com/library/view/pragmatic-ai-an/9780134863924/)
+
 ### [Day1-Part1-Google Colab Notebook](https://drive.google.com/file/d/1jPhYOyvweOJVW3Engci6GcnVEGd_UhGI/view?usp=sharing)
 
 #### 1.1: Introductory Concepts in Python, IPython and Jupyter
