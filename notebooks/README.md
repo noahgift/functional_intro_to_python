@@ -9,19 +9,7 @@ These notebooks are references from *Chapter 1* of [Pragmatic AI](https://www.am
 
 A newer version of these is also available via [Google Colab](https://colab.research.google.com/):
 
-* [Day1-Part1-Google Colab Notebook](https://colab.research.google.com/drive/1pYMAqirEGSYYJjKjjVU5EwVNoPMmIAB0#scrollTo=Pci2aotqPIME)
-
-Covers introductory concepts including procedural statements, strings, numbers, functions, decorators and lambdas
-
-* [Day1-Part2-Google Colab Notebook](https://colab.research.google.com/drive/1IpTZhKuL6_DBnSpU-_HP9MVWMNZ0B69_#scrollTo=HWKUOfEBUMLS)
-
-Covers intermediate topics including classes, libraries, modules and control statements
-
-* [Day2-Part1-Google Colab Notebook](https://colab.research.google.com/drive/1TXkLVC2uL1sewVgu10bjZu7Dvhafw_4Y)
-
-IO in Pandas and Python
-
-* [Day2-Part2-Google Colab Notebook](https://drive.google.com/file/d/1-3jqdbh3DGQDrXkixjWYsgwROyZii4zf/view?usp=sharing)
+https://github.com/noahgift/functional_intro_to_python#safari-online-training--essential-machine-learning-and-exploratory-data-analysis-with-python-and-jupyter-notebook
 
 Applied Python and Cloud Basics
 
