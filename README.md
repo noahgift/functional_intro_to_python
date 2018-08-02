@@ -11,6 +11,7 @@ The sections after that, involve varying levels of difficulty and cover topics a
 These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml.com/).  You can continue learning about these topics by:
 
 *   Buying a copy of [Pragmatic AI: An Introduction to Cloud-Based Machine Learning](https://amzn.to/2LFLVEg)
+*   Watching 8+ Hour Video Series on Safari: [Essential Machine Learning and AI with Python and Jupyter Notebook](https://www.safaribooksonline.com/videos/essential-machine-learning/9780135261118)
 *   Reading online with Safari:  [Pragmatic AI: An Introduction to Cloud-Based Machine Learning, First Edition](https://www.safaribooksonline.com/library/view/pragmatic-ai-an/9780134863924/)
 *   Register for an [upcoming online training on Safari](https://www.safaribooksonline.com/search/?query=noah%20gift).
 *   Browsing [Pragmatic AI Source Code](https://github.com/noahgift/pragmaticai)
