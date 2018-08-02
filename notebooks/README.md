@@ -9,7 +9,7 @@ These notebooks are references from *Chapter 1* of [Pragmatic AI](https://www.am
 
 A newer version of these is also available via [Google Colab](https://colab.research.google.com/):
 
-https://github.com/noahgift/functional_intro_to_python#safari-online-training--essential-machine-learning-and-exploratory-data-analysis-with-python-and-jupyter-notebook
+[Current Chapter 1 Colab Notebooks](https://github.com/noahgift/functional_intro_to_python#safari-online-training--essential-machine-learning-and-exploratory-data-analysis-with-python-and-jupyter-notebook)
 
 Applied Python and Cloud Basics
 
