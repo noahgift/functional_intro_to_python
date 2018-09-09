@@ -7,9 +7,9 @@ These notebooks are references from *Chapter 1* of [Pragmatic AI](https://www.am
 * [Part 3](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_3(Control_Structures).ipynb)
 * [Part 4](https://github.com/noahgift/functional_intro_to_python/blob/master/notebooks/Functional_Introduction_To_Python_Section_4(Intermediate_Topics).ipynb)
 
-A newer version of these is also available via [Google Colab](https://colab.research.google.com/):
+A newer version of these is also available via [Google Colab] below(https://colab.research.google.com/):
 
-[Current Chapter 1 Colab Notebooks](https://github.com/noahgift/functional_intro_to_python#safari-online-training--essential-machine-learning-and-exploratory-data-analysis-with-python-and-jupyter-notebook)
+[Current Chapter 1 Colab Notebooks](https://github.com/noahgift/functional_intro_to_python#safari-online-training--essential-machine-learning-and-exploratory-data-analysis-with-python-and-jupyter-notebook).  These are continously updating versions, based on the original versions in the book.
 
 Applied Python and Cloud Basics
 
