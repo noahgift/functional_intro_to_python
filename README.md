@@ -13,6 +13,8 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 *   Buying a copy of [Pragmatic AI: An Introduction to Cloud-Based Machine Learning](https://amzn.to/2LFLVEg)
 *   Watching 8+ Hour Video Series on Safari: [Essential Machine Learning and AI with Python and Jupyter Notebook](https://www.safaribooksonline.com/videos/essential-machine-learning/9780135261118)
 *   Reading online with Safari:  [Pragmatic AI: An Introduction to Cloud-Based Machine Learning, First Edition](https://www.safaribooksonline.com/library/view/pragmatic-ai-an/9780134863924/)
+*  Watching video [Essential Machine Learning and AI with Python and Jupyter Notebook-Video-SafariOnline](https://www.safaribooksonline.com/videos/essential-machine-learning/9780135261118) on Safari Books Online.
+* Purchasing video [Essential Machine Learning and AI with Python and Jupyter Notebook- Purchase Video](http://www.informit.com/store/essential-machine-learning-and-ai-with-python-and-jupyter-9780135261095)
 *   Register for an [upcoming online training on Safari](https://www.safaribooksonline.com/search/?query=noah%20gift).
 *   Browsing [Pragmatic AI Source Code](https://github.com/noahgift/pragmaticai)
 *   Viewing more content at [noahgift.com](https://noahgift.com/)
