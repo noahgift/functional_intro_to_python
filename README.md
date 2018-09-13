@@ -1,4 +1,5 @@
 [![CircleCI](https://circleci.com/gh/noahgift/functional_intro_to_python.svg?style=svg&circle-token=d3ccec4d9ec6d4f1052ec528e22dc26554502cde)](https://circleci.com/gh/noahgift/functional_intro_to_python)
+[![DOI](https://zenodo.org/badge/109538134.svg)](https://zenodo.org/badge/latestdoi/109538134)
 
 # Functional, Data Science Intro To Python
 The first section is an intentionally brief, functional, data science centric introduction to Python.  The assumption is a someone with zero experience in programming can follow this tutorial and learn Python with the smallest amount of information possible.
