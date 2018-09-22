@@ -196,3 +196,7 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 #### Linear Regression
 
 * [Linear Regression in Jupyter Notebook](https://github.com/noahgift/socialpowernba/blob/master/notebooks/exploring_endorsement_revenue_nba.ipynb)
+
+
+### Text
+The text content of notebooks is released under the [CC-BY-NC-ND license]
