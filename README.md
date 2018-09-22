@@ -199,4 +199,4 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 
 
 ### Text
-The text content of notebooks is released under the [CC-BY-NC-ND license]
+The text content of notebooks is released under the [CC-BY-NC-ND license](https://github.com/noahgift/functional_intro_to_python/blob/master/license.md)
