@@ -90,6 +90,10 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 
 ## Additional Topics
 
+### Managed ML and IoT
+
+* [Managed Machine Learning Systems and Internet of Things](https://github.com/noahgift/managed_ml_systems_and_iot)
+
 ### Software Carpentary:  Testing, Linting, Building
 
 * [How Create a Python Project Github Repository](https://github.com/noahgift/myrepo)
