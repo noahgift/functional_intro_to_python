@@ -50,7 +50,7 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 
 ### [Day2-Part1-Google Colab Notebook](https://colab.research.google.com/drive/1sORrIFB8t9NbW9Nhko-EgFI1HWOKwn28)
 
-#### 2.1: IO Operations in Python and Pandas
+#### 2.1: IO Operations in Python and Pandas and ML Project Exploration
   - Working with Files
   - Serialization Techniques
   - Use Pandas DataFrames
