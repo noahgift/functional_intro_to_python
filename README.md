@@ -33,14 +33,14 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 
 ### [Day1-Part1-Google Colab Notebook](https://drive.google.com/file/d/1jPhYOyvweOJVW3Engci6GcnVEGd_UhGI/view?usp=sharing)
 
-#### 1.1: Introductory Concepts in Python, IPython and Jupyter
+#### 1.1-1.2: Introductory Concepts in Python, IPython and Jupyter
 
   - Introductory Concepts in Python, IPython and Jupyter
   - Functions
 
 ### [Day1-Part2-Google Colab Notebook](https://colab.research.google.com/drive/1dmTMM-zmGToCmcaedyNj93X-dLZeg2KG)
 
-#### 1.2: Functions
+#### 1.3: Understanding Libraries, Classes, Control Structures, Control Structures and Regular Expressions 
 
   - Writing And Using Libraries In Python
   - Understanding Python Classes
