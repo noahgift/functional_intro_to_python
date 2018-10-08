@@ -76,7 +76,7 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 
 ## Screencasts (Can Be Watched from 1-4x speed)
 
-  * [Screencast:  How to setup a Python Project in Github, Test it with Pytest, use Pylint and Build it With CircleCI](https://www.dropbox.com/s/yohpxvic00g4w44/project_setup.mov?dl=0)
+  * [![Data Science Build Project](http://img.youtube.com/vi/xYX7n5bZw-w/0.jpg)](http://www.youtube.com/watch?v=xYX7n5bZw-w)
   * [Screencast:  How to launch AWS Spot Instances and Create Custom AMIs](https://www.dropbox.com/s/z5nbv2cu1zzub97/launch_spot.mov?dl=0)
   * [Screencast:  How to use AWS S3 including from Pandas and Boto inside Jupyter](https://www.dropbox.com/s/fm495qy205j2lzs/s3_screencast.mov?dl=0)
 
