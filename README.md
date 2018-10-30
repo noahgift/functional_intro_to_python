@@ -110,6 +110,7 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 * [IBM Developerworks:  Using Multi-processing Module in Python (2009)](https://www.ibm.com/developerworks/aix/library/au-multiprocessing/index.html)
 * [Writing Async Network IO Calls to AWS API](https://github.com/noahgift/awsasync)
 * [Worker Farm with RabbitMQ and Tornado](https://github.com/noahgift/tornado_rabbitmq_linear_optimization)
+* [Nuclear Powered Command-Line Tools](https://github.com/noahgift/nuclear_powered_command_line_tools)
 
 ### Cloud Computing-AWS-Sentiment Analysis
 
