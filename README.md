@@ -160,6 +160,7 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 * [Python Commandline tool Rosetta:  Comparing R, Bash, Go, Node, Python and Ruby](https://github.com/noahgift/cli-rosetta)
 * [Pyli:  Deduplication Commandline Tool That Walks A Filesystem](https://github.com/nogibjj/pyli)
 * [Developersworks Article (2008):  Creating Commandline Tools Python](https://www.ibm.com/developerworks/aix/library/au-pythocli/)
+* [Nuclear Powered Commandline tools](https://github.com/noahgift/nuclear_powered_command_line_tools)
 
 ### Creating a complete Data Engineering API
 
