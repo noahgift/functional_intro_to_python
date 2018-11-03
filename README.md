@@ -91,6 +91,11 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 
 ## Additional Topics
 
+### Python Topics
+
+* [Immutability example notebook](https://colab.research.google.com/drive/1hZsv6KyzIHD4viFBvCYFrGaQb6Tqu4Sw)
+
+
 ### Managed ML and IoT
 
 * [Managed Machine Learning Systems and Internet of Things](https://github.com/noahgift/managed_ml_systems_and_iot)
