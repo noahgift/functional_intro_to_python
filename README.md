@@ -91,7 +91,7 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 
 ## Additional Topics
 
-### Python Topics
+### Python Programming Recipes
 
 * [Immutability example notebook](https://colab.research.google.com/drive/1hZsv6KyzIHD4viFBvCYFrGaQb6Tqu4Sw)
 
