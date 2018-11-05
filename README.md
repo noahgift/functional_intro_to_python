@@ -108,6 +108,7 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 * [How to build and test a Python Project with CircleCI](https://github.com/noahgift/functional_intro_to_python/blob/master/.circleci/config.yml)
 * [How to get test Coverage with Pytest](https://github.com/noahgift/devml/blob/master/Makefile#L8)
 * [How to use Pylint to Fail on Error and Warnings only](https://github.com/noahgift/devml/blob/master/Makefile#L22)
+* [Increase reliability in data science and machine learning projects with CircleCI](https://circleci.com/blog/increase-reliability-in-data-science-and-machine-learning-projects-with-circleci/)
 
 ### Concurrency in Python
 
