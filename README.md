@@ -192,6 +192,16 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 
 * ["Sensible" Logging Library in Python:  Deployed to PyPI](https://github.com/nogibjj/sensible)
 
+### Conceptual Machine Learning
+
+#### Linear Regression
+
+* [Linear Regression in Jupyter Notebook](https://github.com/noahgift/socialpowernba/blob/master/notebooks/exploring_endorsement_revenue_nba.ipynb)
+
+### Machine Learning Model Building for Regression
+
+* [ML Linear Regression with Yellowbrick and SKlearn](https://github.com/noahgift/regression-concepts/blob/master/ml_regression.ipynb)
+
 ### Mathematical and Algorithmic Programming
 
 #### Optimization
@@ -201,10 +211,6 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 * [Traveling Salesman (NP Hard Simulation Solution with Random, Greedy Start)](https://github.com/noahgift/or/blob/master/tsp_greedy_random_start.py)
 
 * [Greedy Coin Example in Python](https://github.com/noahgift/greedy_coin)
-
-#### Linear Regression
-
-* [Linear Regression in Jupyter Notebook](https://github.com/noahgift/socialpowernba/blob/master/notebooks/exploring_endorsement_revenue_nba.ipynb)
 
 
 ### Text
