@@ -15,6 +15,8 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 *   Watching 8+ Hour Video Series on Safari: [Essential Machine Learning and AI with Python and Jupyter Notebook](https://www.safaribooksonline.com/videos/essential-machine-learning/9780135261118)
 *   Reading online with Safari:  [Pragmatic AI: An Introduction to Cloud-Based Machine Learning, First Edition](https://www.safaribooksonline.com/library/view/pragmatic-ai-an/9780134863924/)
 *  Watching video [Essential Machine Learning and AI with Python and Jupyter Notebook-Video-SafariOnline](https://www.safaribooksonline.com/videos/essential-machine-learning/9780135261118) on Safari Books Online.
+*  Watching video [AWS Certified Machine Learning-Speciality](https://learning.oreilly.com/videos/aws-certified-machine/9780135556597)
+*  Watching learning path [Essential Machine Learning and Pragmatic AI](https://learning.oreilly.com/learning-paths/learning-path-essential/9780135747193/)
 * Purchasing video [Essential Machine Learning and AI with Python and Jupyter Notebook- Purchase Video](http://www.informit.com/store/essential-machine-learning-and-ai-with-python-and-jupyter-9780135261095)
 *   Register for an [upcoming online training on Safari](https://www.safaribooksonline.com/search/?query=noah%20gift).
 *   Browsing [Pragmatic AI Source Code](https://github.com/noahgift/pragmaticai)
@@ -30,6 +32,8 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 
 *   Watching 8+ Hour Video Series on Safari: [Essential Machine Learning and AI with Python and Jupyter Notebook](https://www.safaribooksonline.com/videos/essential-machine-learning/9780135261118)
 *   Reading online with Safari:  [Pragmatic AI: An Introduction to Cloud-Based Machine Learning, First Edition](https://www.safaribooksonline.com/library/view/pragmatic-ai-an/9780134863924/)
+*  Watching learning path [Essential Machine Learning and Pragmatic AI](https://learning.oreilly.com/learning-paths/learning-path-essential/9780135747193/)
+*  Watching video [AWS Certified Machine Learning-Speciality](https://learning.oreilly.com/videos/aws-certified-machine/9780135556597)
 
 ### [Day1-Part1-Google Colab Notebook](https://drive.google.com/file/d/1jPhYOyvweOJVW3Engci6GcnVEGd_UhGI/view?usp=sharing)
 
