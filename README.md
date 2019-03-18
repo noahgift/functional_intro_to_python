@@ -34,6 +34,7 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 *   Reading online with Safari:  [Pragmatic AI: An Introduction to Cloud-Based Machine Learning, First Edition](https://www.safaribooksonline.com/library/view/pragmatic-ai-an/9780134863924/)
 *  Watching learning path [Essential Machine Learning and Pragmatic AI](https://learning.oreilly.com/learning-paths/learning-path-essential/9780135747193/)
 *  Watching video [AWS Certified Machine Learning-Speciality](https://learning.oreilly.com/videos/aws-certified-machine/9780135556597)
+*  Exploring interactive Jupyter book on ["Python For Data Science"](https://paiml.github.io/python_for_datascience/intro.html)
 
 ### [Day1-Part1-Google Colab Notebook](https://drive.google.com/file/d/1jPhYOyvweOJVW3Engci6GcnVEGd_UhGI/view?usp=sharing)
 
