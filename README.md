@@ -52,6 +52,7 @@ His most recent online courses are:
 
 *   [Microservices with this Udacity DevOps Nanodegree (Udacity, 2019)](https://www.udacity.com/course/cloud-dev-ops-nanodegree--nd9991)
 *   [Command Line Automation in Python (DataCamp, 2019)](https://www.datacamp.com/instructors/ndgift)
+*   [AWS Certified Cloud Practitioner 2020-Real World & Pragmatic](https://www.udemy.com/course/aws-certified-cloud-practitioner-2020-real-world-pragmatic/?referralCode=CAC679A7D08212773428).
 
 ## Safari Online Training:  Essential Machine Learning and Exploratory Data Analysis with Python and Jupyter Notebook
 
