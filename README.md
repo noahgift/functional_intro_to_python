@@ -11,6 +11,10 @@ Do you find this free tutorial valuable!  Please help spread the word:
 1. Star this Github Repo.
 2. If you have access to Safari, [please like or comment my content on Safari](https://www.oreilly.com/search/?query=noah%20gift&extended_publisher_data=true&highlight=true&include_assessments=false&include_case_studies=true&include_courses=true&include_orioles=true&include_playlists=true&include_collections=false&include_notebooks=false&is_academic_institution_account=false&formats=book&formats=learning%20path&formats=video&sort=relevance&facet_json=true&page=0).
 
+## Watch The Video on YouTube
+
+* [![Learn Python in one hour!](https://img.youtube.com/vi/ie-hjFXlxTs/0.jpg)](https://youtu.be/ie-hjFXlxTs)
+
 ## Pragmatic AI Labs
 ![Pragmatic AI Labs](https://paiml.com/images/logo_with_slogan_white_background.png)
 
