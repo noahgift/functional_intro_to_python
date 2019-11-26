@@ -14,6 +14,7 @@ Do you find this free tutorial valuable!  Please help spread the word:
 ## Watch The Video Companions on YouTube
 
 **Learn Python in one hour**
+
 [![Learn Python in one hour!](https://img.youtube.com/vi/ie-hjFXlxTs/0.jpg)](https://youtu.be/ie-hjFXlxTs)
 
 ## Pragmatic AI Labs
