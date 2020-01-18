@@ -44,6 +44,8 @@ His most recent books are:
 
 *   [Pragmatic A.I.:   An introduction to Cloud-Based Machine Learning (Pearson, 2018)](https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-Based-Analytics/dp/0134863860)
 *   [Python for DevOps (O'Reilly, 2020)](https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X). 
+*   [Cloud Computing for Data Analysis, 2020](https://leanpub.com/cloud4data)
+*   [Testing in Python, 2020](https://leanpub.com/testinginpython)
 
 His most recent video courses are:
 
