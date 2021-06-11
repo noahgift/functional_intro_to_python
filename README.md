@@ -18,7 +18,7 @@ Do you find this free tutorial valuable!  Please help spread the word:
 [![Learn Python in one hour!](https://img.youtube.com/vi/ie-hjFXlxTs/0.jpg)](https://youtu.be/ie-hjFXlxTs)
 
 ## Pragmatic AI Labs
-![Pragmatic AI Labs](https://paiml.com/images/logo_with_slogan_white_background.png)
+![Pragmatic AI Labs](https://paiml.com/logo_with_slogan_white_background.png)
 
 These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml.com/).  You can continue learning about these topics by:
 
@@ -56,7 +56,6 @@ Launch Your Career in Cloud Computing. Master strategies and tools to become pro
 #### Courses in Specialization
 
 ![cloud-specialization](https://user-images.githubusercontent.com/58792/121041040-650ca180-c780-11eb-956e-8d1ecb134641.png)
-
 * [Take the Specialization](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
 * [Cloud Computing Foundations](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
 * [Cloud Virtualization, Containers and APIs](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke?specialization=building-cloud-computing-solutions-at-scale)
