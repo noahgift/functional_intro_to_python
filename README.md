@@ -40,12 +40,36 @@ These notebooks and tutorials were produced by [Pragmatic AI Labs](https://paiml
 
 ### Additional Related Topics from Noah Gift
 
-His most recent books are:
+* Cloud Computing (Specialization:  4 Courses)
+* Publisher:  Coursera + Duke
+* Release Date:  4/1/2021
 
+Building Cloud Computing Solutions at Scale Specialization
+Launch Your Career in Cloud Computing. Master strategies and tools to become proficient in developing data science and machine learning (MLOps) solutions in the Cloud
+
+#### What You Will Learn
+
+* Build websites involving serverless technology and virtual machines, using the best practices of DevOps
+* Apply Machine Learning Engineering to build a Flask web application that serves out Machine Learning predictions
+* Create Microservices using technologies like Flask and Kubernetes that are continuously deployed to a Cloud platform: AWS, Azure or GCP
+
+#### Courses in Specialization
+
+![cloud-specialization](https://user-images.githubusercontent.com/58792/121041040-650ca180-c780-11eb-956e-8d1ecb134641.png)
+
+* [Take the Specialization](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
+* [Cloud Computing Foundations](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
+* [Cloud Virtualization, Containers and APIs](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke?specialization=building-cloud-computing-solutions-at-scale)
+* [Cloud Data Engineering](https://www.coursera.org/learn/cloud-data-engineering-duke?specialization=building-cloud-computing-solutions-at-scale)
+* [Cloud Machine Learning Engineering and MLOps](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke?specialization=building-cloud-computing-solutions-at-scale)
+
+### His most recent books are:
+
+*   [Practical MLOps (O'Reilly 2021)](https://www.amazon.com/Practical-MLOps-Operationalizing-Machine-Learning/dp/1098103017/)
 *   [Pragmatic A.I.:   An introduction to Cloud-Based Machine Learning (Pearson, 2018)](https://www.amazon.com/Pragmatic-AI-Introduction-Cloud-Based-Analytics/dp/0134863860)
 *   [Python for DevOps (O'Reilly, 2020)](https://www.amazon.com/Python-DevOps-Ruthlessly-Effective-Automation/dp/149205769X). 
-*   [Cloud Computing for Data Analysis, 2020](https://leanpub.com/cloud4data)
-*   [Testing in Python, 2020](https://leanpub.com/testinginpython)
+*   [Cloud Computing for Data Analysis, 2020](https://paiml.com/docs/home/books/cloud-computing-for-data/)
+*   [Testing in Python, 2020](https://paiml.com/docs/home/books/testing-in-python/)
 
 His most recent video courses are:
 
