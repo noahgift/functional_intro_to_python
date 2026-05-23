@@ -1,18 +1,32 @@
-"""This is a simple module"""
+"""Teaching module — Brazilian Jiu-Jitsu belt utilities.
 
-import pandas as pd
+Pure-Python, depyler-transpilable. Every public function carries an
+icontract pre/postcondition and is exercised by hypothesis property
+tests under ``tests/``.
+"""
 
-def list_of_belts_in_bjj():
-    """Returns a list of the belts in Brazilian Jiu Jitsu"""
+from typing import Final
 
-    belts = ["white", "blue", "purple", "brown", "black"]
-    return belts
+import icontract
 
-def count_belts():
-    """Uses Pandas to count number of belts"""
+BJJ_BELTS: Final[tuple[str, ...]] = ("white", "blue", "purple", "brown", "black")
 
-    belts = list_of_belts_in_bjj()
-    df = pd.DataFrame(belts)
-    res = df.count()
-    count = res.values.tolist()[0]
-    return count 
+
+@icontract.ensure(lambda result: len(result) == 5)
+def list_of_belts_in_bjj() -> list[str]:
+    """Return the ordered list of adult belts in Brazilian Jiu-Jitsu.
+
+    Contract:
+      - Ensures: returns exactly the five canonical adult belts, in rank order.
+    """
+    return ["white", "blue", "purple", "brown", "black"]
+
+
+@icontract.ensure(lambda result: result == 5)
+def count_belts() -> int:
+    """Count the BJJ belts.
+
+    Contract:
+      - Ensures: result equals the number of canonical BJJ belts (5).
+    """
+    return len(list_of_belts_in_bjj())

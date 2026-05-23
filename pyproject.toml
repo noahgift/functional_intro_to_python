@@ -1,0 +1,74 @@
+[project]
+name = "functional-intro-to-python"
+version = "0.2.0"
+description = "Functional, data-science-centric intro to Python — PAIML teaching repo."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.11"
+authors = [{ name = "Noah Gift" }]
+dependencies = [
+    "icontract>=2.7",
+]
+
+[project.optional-dependencies]
+notebooks = [
+    "pandas>=2.2",
+    "numpy>=1.26",
+    "pyyaml>=6.0",
+    "click>=8.1",
+    "bokeh>=3.4",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "coverage[toml]>=7.4",
+    "hypothesis>=6.100",
+    "icontract>=2.7",
+    "nbval>=0.11",
+    "jupyter>=1.0",
+    "jupyterlab>=4.0",
+    "ruff>=0.6",
+    "ty>=0.0.1a1",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+extend-exclude = ["notebooks/[!_]*", "rust", "helloworld", "data", "*.ipynb"]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "W", "B", "UP", "SIM", "RUF"]
+
+[tool.ruff.lint.per-file-ignores]
+# Notebook snippets are teaching extracts: cells reference state from
+# prior cells (F821), use bare expressions for REPL-style display (B018),
+# and the line-length limit is informational only for prose-style code.
+"notebooks/_snippets/**" = [
+    "E501", "F821", "B018", "F401", "F541",
+    "B007", "W291", "I001", "UP028",
+]
+
+[tool.ruff.format]
+quote-style = "double"
+
+[tool.ty]
+# ty configuration — strict by default for funclib + tests.
+
+[tool.coverage.run]
+branch = true
+source = ["funclib"]
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = false
+fail_under = 100
+exclude_lines = [
+    "pragma: no cover",
+    "if __name__ == .__main__.:",
+    "raise NotImplementedError",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
