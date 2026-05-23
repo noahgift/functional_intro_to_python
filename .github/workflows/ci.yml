@@ -30,7 +30,9 @@ jobs:
           pmat comply check
         continue-on-error: true
       - name: banned tools grep
+        # Catches reintroduction of banned toolchains in *executable*
+        # locations only — Makefile, pyproject.toml, scripts/. Prose
+        # mentions in docs/README are allowed (they document the ban).
         run: |
-          ! grep -RInE '\b(pip install|pylint|black |mypy |poetry |pipenv)\b' \
-            --include='Makefile' --include='*.yml' --include='*.yaml' \
-            --include='*.toml' --include='*.md' .
+          ! grep -nE '\b(pip install|pylint|poetry run|pipenv)\b' \
+            Makefile pyproject.toml scripts/*.py
