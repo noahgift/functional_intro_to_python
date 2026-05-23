@@ -1,0 +1,13 @@
+[package]
+name = "funclib"
+version = "0.2.0"
+edition.workspace = true
+license.workspace = true
+authors.workspace = true
+description = "Rust twin of funclib — depyler-transpiled, hand-curated, parity-tested."
+
+[lib]
+path = "src/lib.rs"
+
+[dev-dependencies]
+proptest = "1.5"

@@ -103,3 +103,14 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Rust
+rust/target/
+rust/**/target/
+Cargo.lock
+
+# uv
+.venv/
+rust/notebooks/
+.pmat/context.db*
+.pmat/context.idx

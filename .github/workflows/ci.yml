@@ -1,0 +1,36 @@
+name: ci
+
+on:
+  push:
+    branches: [master, main]
+  pull_request:
+
+jobs:
+  python:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v3
+        with:
+          enable-cache: true
+      - run: uv sync --frozen
+      - name: ruff format
+        run: uv run ruff format --check .
+      - name: ruff lint
+        run: uv run ruff check .
+      - name: ty type-check
+        run: uv run ty check funclib tests
+      - name: tests + coverage
+        run: |
+          uv run coverage run -m pytest
+          uv run coverage report
+      - name: pmat comply
+        run: |
+          curl -fsSL https://raw.githubusercontent.com/paiml/pmat/master/install.sh | sh || true
+          pmat comply check
+        continue-on-error: true
+      - name: banned tools grep
+        run: |
+          ! grep -RInE '\b(pip install|pylint|black |mypy |poetry |pipenv)\b' \
+            --include='Makefile' --include='*.yml' --include='*.yaml' \
+            --include='*.toml' --include='*.md' .

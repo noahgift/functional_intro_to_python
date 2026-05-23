@@ -1,18 +1,68 @@
-## 🎓 Pragmatic AI Labs | Join 1M+ ML Engineers
+# 🎓 Pragmatic AI Labs | Functional Intro to Python (& Rust)
 
-### 🔥 Hot Course Offers:
-* 🤖 [Master GenAI Engineering](https://ds500.paiml.com/learn/course/0bbb5/) - Build Production AI Systems
-* 🦀 [Learn Professional Rust](https://ds500.paiml.com/learn/course/g6u1k/) - Industry-Grade Development
-* 📊 [AWS AI & Analytics](https://ds500.paiml.com/learn/course/31si1/) - Scale Your ML in Cloud
-* ⚡ [Production GenAI on AWS](https://ds500.paiml.com/learn/course/ehks1/) - Deploy at Enterprise Scale
-* 🛠️ [Rust DevOps Mastery](https://ds500.paiml.com/learn/course/ex8eu/) - Automate Everything
+[![uv](https://img.shields.io/badge/packaging-uv-DE5FE9)](https://github.com/astral-sh/uv)
+[![ruff](https://img.shields.io/badge/lint-ruff-261230)](https://github.com/astral-sh/ruff)
+[![ty](https://img.shields.io/badge/types-ty-3776AB)](https://github.com/astral-sh/ty)
+[![pmat comply](https://img.shields.io/badge/pmat-comply-2E8B57)](https://paiml.com)
+[![coverage 100%](https://img.shields.io/badge/coverage-100%25-brightgreen)](#quality-gates)
+[![depyler](https://img.shields.io/badge/Py%E2%86%92Rust-depyler-orange)](https://crates.io/crates/depyler)
 
-### 🚀 Level Up Your Career:
-* 💼 [Production ML Program](https://paiml.com) - Complete MLOps & Cloud Mastery
-* 🎯 [Start Learning Now](https://ds500.paiml.com) - Fast-Track Your ML Career
-* 🏢 Trusted by Fortune 500 Teams
+> Modernized: `uv` + `ruff` + `ty` only · 100% branch coverage · `icontract`
+> + `hypothesis` provable contracts · every example transpilable to Rust via
+> `depyler` and held to `clippy -D warnings` + `proptest` parity.
+> See [`docs/specifications/upgrade-spec.md`](docs/specifications/upgrade-spec.md).
 
-Learn end-to-end ML engineering from industry veterans at [PAIML.COM](https://paiml.com)
+---
+
+## 🚀 Pragmatic AI Labs — Full Course Catalog
+
+If this tutorial helps you, please ⭐ the repo and check out the courses
+that fund this work:
+
+### 🔥 Featured Courses on [DS500](https://ds500.paiml.com)
+* 🤖 [Master GenAI Engineering](https://ds500.paiml.com/learn/course/0bbb5/) — Build Production AI Systems
+* 🦀 [Learn Professional Rust](https://ds500.paiml.com/learn/course/g6u1k/) — Industry-Grade Development
+* 📊 [AWS AI & Analytics](https://ds500.paiml.com/learn/course/31si1/) — Scale Your ML in Cloud
+* ⚡ [Production GenAI on AWS](https://ds500.paiml.com/learn/course/ehks1/) — Deploy at Enterprise Scale
+* 🛠️ [Rust DevOps Mastery](https://ds500.paiml.com/learn/course/ex8eu/) — Automate Everything
+
+### 🎓 Coursera + Duke — Building Cloud Computing Solutions at Scale (4-course specialization)
+* [Take the Specialization](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
+* [Cloud Computing Foundations](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
+* [Cloud Virtualization, Containers & APIs](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke?specialization=building-cloud-computing-solutions-at-scale)
+* [Cloud Data Engineering](https://www.coursera.org/learn/cloud-data-engineering-duke?specialization=building-cloud-computing-solutions-at-scale)
+* [Cloud Machine Learning Engineering & MLOps](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke?specialization=building-cloud-computing-solutions-at-scale)
+
+### 💼 Programs & Hub
+* [Production ML Program](https://paiml.com) — Complete MLOps & Cloud Mastery
+* [Start Learning Now on DS500](https://ds500.paiml.com) — Fast-Track Your ML Career
+* [Pragmatic AI Labs Hub](https://paiml.com) — Trusted by Fortune 500 Teams
+* 📰 [Newsletter](https://newsletter.paiml.com/social) · 📺 [YouTube](https://www.youtube.com/channel/UCNDfiL0D1LUeKWAkRE1xO5Q) · ✍️ [Medium](https://medium.com/pragmatic-ai-labs)
+
+Learn end-to-end ML engineering from industry veterans at [PAIML.COM](https://paiml.com).
+
+---
+
+<a id="quality-gates"></a>
+## 🔒 Quality Gates (this repo)
+
+Single source of truth for the toolchain. **No `pip`, no `pylint`, no
+`black`, no `mypy`, no `poetry`** — enforced by CI grep.
+
+| Concern        | Tool                  | Make target |
+|----------------|-----------------------|-------------|
+| Env + deps     | `uv`                  | `make install` |
+| Lint + format  | `ruff`                | `make lint`, `make fmt-check` |
+| Type check    | `ty`                  | `make type` |
+| Tests + cov    | `pytest` + `coverage` | `make cover` (100% required) |
+| Contracts      | `icontract` + `hypothesis` | runs via `make cover` |
+| Compliance     | `pmat comply`         | `make comply` |
+| Py → Rust      | `depyler`             | `make depyler` |
+| Rust gate      | `cargo fmt` + `clippy -D warnings` + `proptest` | `make rust` |
+
+Run everything: `make all`.
+
+---
 
 # Functional, Data Science Intro To Python
 The first section is an intentionally brief, functional, data science centric introduction to Python.  The assumption is a someone with zero experience in programming can follow this tutorial and learn Python with the smallest amount of information possible.
