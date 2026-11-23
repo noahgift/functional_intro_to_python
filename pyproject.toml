@@ -27,7 +27,7 @@ dev = [
     "icontract>=2.7",
     "nbval>=0.11",
     "jupyter>=1.0",
-    "jupyterlab>=4.0",
+    "jupyterlab>=4.5.10",
     "ruff>=0.6",
     "ty>=0.0.1a1",
 ]
