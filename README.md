@@ -7,10 +7,6 @@ See `docs/specifications/upgrade-spec.md`.
 
 ---
 
-## 🎓 Pragmatic AI Labs | Join 2M+ ML Engineers
-
----
-
 ## Pragmatic AI Labs Specializations
 
 📚 **[Rust Data Engineering Specialization](https://www.coursera.org/specializations/rust-data-engineering)** — 📦 [GitHub: paiml/rust-de-specialization](https://github.com/paiml/rust-de-specialization)
@@ -201,3 +197,11 @@ Run everything: `make all`.
 
 The text content of these notebooks is released under the CC-BY-NC-ND
 license (see `license.md`).
+
+<!-- funnel:start -->
+---
+
+**Learn Python for data and AI engineering:** [AI Debugging and Test-Driven Fixes (Coursera)](https://www.coursera.org/learn/ai-debugging?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=functional_intro_to_python) · [Applied Python Data Engineering, Duke (Coursera)](https://www.coursera.org/specializations/python-data-engineering?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=functional_intro_to_python) · [Data Engineering with Python and Linux program (edX)](https://www.edx.org/certificates/professional-certificate/ai-data-engineering-with-python-and-linux?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=functional_intro_to_python)
+
+More courses from [Noah Gift](https://github.com/noahgift) and Pragmatic AI Labs.
+<!-- funnel:end -->
