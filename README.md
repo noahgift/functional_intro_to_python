@@ -201,3 +201,7 @@ Run everything: `make all`.
 
 The text content of these notebooks is released under the CC-BY-NC-ND
 license (see `license.md`).
+
+<!-- FUNNEL-001 footer: replace functional_intro_to_python with the repo name -->
+---
+📚 **Learn this hands-on:** [Pragmatic AI Labs courses on Coursera](https://www.coursera.org/partners/pragmatic-ai-labs?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=functional_intro_to_python) · ✉ [Free newsletter](https://ds500.paiml.com/mailing?utm_source=github&utm_medium=readme&utm_campaign=funnel_2026q4&utm_content=functional_intro_to_python)
